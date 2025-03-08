@@ -20,7 +20,7 @@ Um script Python que identifica e extrai automaticamente os momentos mais releva
 ## ⚙️ Instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/youtube-highlight-extractor.git
+git clone github.com/MrRedCoffee/YouTube-Highlight-Extractor/youtube-highlight-extractor.git
 cd youtube-highlight-extractor
 ```
 
